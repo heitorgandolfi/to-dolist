@@ -10,7 +10,7 @@
 
 ### **Deploy do projeto:**
 
-- https://to-dolist-kappa.vercel.app/
+- https://to-dolist-gamma.vercel.app/
 
 <br>
 
