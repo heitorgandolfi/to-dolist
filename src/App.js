@@ -29,7 +29,6 @@ function App() {
     } else {
       setStatusMessage("")
     }
-
     setTaskCounter(allTasks.length);
     setTasks(allTasks);
   }
@@ -40,11 +39,10 @@ function App() {
       setMessageAlert("Para continuar, preencha todos os campos!");
       return;
     }
-
     SaveTaskInLocalStorage(description, date, tasks);
     loadTasks()
     setShowModal(false);
-    setMessageAlert("");
+    setMessageAlert("")
   }
 
   useEffect(() => {

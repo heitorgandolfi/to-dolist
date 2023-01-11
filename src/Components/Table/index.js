@@ -7,7 +7,7 @@ export function Table({ tasks, removeTask }) {
             <thead>
                 <tr>
                     <th>Descrição da Tarefa</th>
-                    <th>Data</th>
+                    <th>Data de Início</th>
                     <th>Ações</th>
                 </tr>
             </thead>
@@ -19,7 +19,6 @@ export function Table({ tasks, removeTask }) {
                             task={task}
                             removeTask={removeTask} />
                     ))
-
                 }
             </tbody>
         </table>
