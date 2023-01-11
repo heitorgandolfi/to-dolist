@@ -6,7 +6,7 @@ export function Table({ tasks, removeTask }) {
         <table>
             <thead>
                 <tr>
-                    <th>Descrição da Tarefa</th>
+                    <th>Descrição</th>
                     <th>Data de Início</th>
                     <th>Ações</th>
                 </tr>
