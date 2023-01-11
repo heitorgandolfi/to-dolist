@@ -1,5 +1,9 @@
 # To-do list.
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/113437603/203771997-a45f6df8-a09c-4fb5-8147-e922043af123.png" width="760px">
+</div>
+
 ### **Sobre o projeto:**
 
 - Trata-se de uma aplicação web, a partir da qual o usuário consegue gerenciar uma lista de afazeres, adicionando e removendo tarefas, organizando-as de maneira simples e objetiva. Para inseri-las, é necessário o preenchimento dos campos existentes: a sua descrição e a data a ela vinculada, emitindo um mensagem de erro caso algum deles esteja em branco. O projeto está em desenvolvimento e, em breve, novas funcionalidades serão adicionadas a ele.
